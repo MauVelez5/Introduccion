@@ -34,5 +34,16 @@ with col2:
   if modo == 'Tactil':
     st.write('El tacto es fundamental para tu interfaz')
 
+st.subheader("Uso de Botones")
+if st.button('Presiona el boton'):
+  st.write('Gracias por presionar')
+else:
+  st.write('No has presionado aún')
 
-  
+#st.subheader("Selectbox")
+
+
+
+
+
+
