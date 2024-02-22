@@ -1,4 +1,4 @@
-import streamlit as sit 
+import streamlit as st 
 from PIL import Image
 
-st.title("Mi Preimera App!!")
+st.title("Mi Primera App!!")
