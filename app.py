@@ -1,4 +1,4 @@
 import streamlit as sit 
-from PIl import Image
+from PIL import Image
 
 st.title("Mi Preimera App!!")
